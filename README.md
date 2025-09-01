@@ -24,7 +24,9 @@ SQL Server, MySQL
 Visual Studio, Git, GitHub, VS Code
 
 **Sistemas Operativos:**  
-Windows, Linux
+Windows
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tavella05&layout=compact&langs_count=10&theme=dark)
+
 
 📫 Contacto  
 💼 [LinkedIn](https://www.linkedin.com/in/franco-tavella-9662b8366/)  
