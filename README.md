@@ -25,6 +25,8 @@ Visual Studio, Git, GitHub, VS Code
 
 **Sistemas Operativos:**  
 Windows
+
+**📊 Estadísticas de Lenguajes**
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tavella05&layout=compact&langs_count=10&theme=dark)
 
 
