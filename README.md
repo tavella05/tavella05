@@ -26,10 +26,17 @@ Visual Studio, Git, GitHub, VS Code
 **Sistemas Operativos:**  
 Windows
 
-**📊 Estadísticas de Lenguajes**
+---
+
+## 📈 Estadísticas de GitHub
+
+### Lenguajes más usados
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tavella05&layout=compact&langs_count=10&theme=dark)
 
+### Actividad general
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tavella05&show_icons=true&theme=dark)
 
+---
 📫 Contacto  
 💼 [LinkedIn](https://www.linkedin.com/in/franco-tavella-9662b8366/)  
 📧 tavellafranco45@gmail.com
